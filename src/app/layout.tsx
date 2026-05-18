@@ -1,15 +1,15 @@
 import type { Metadata } from "next";
 import Header from "@/components/Header";
-import Footer from "@/components/Footer";
+// import Footer from "@/components/Footer";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "बळीवंश चळवळ | Balivansh Chalval - Farmer Welfare Movement",
+  title: "बळिवंश लोकचळवळ | Balivansh Lokchalval - Farmer Welfare Movement",
   description:
-    "बळीवंश चळवळ - शेतकऱ्यांसाठी लढणारी चळवळ. A grassroots farmer welfare movement in Buldhana, Maharashtra fighting for drought relief, fair crop pricing, and agricultural rights.",
+    "बळिवंश लोकचळवळ - शेतकऱ्यांचा शास्वत विकास. A grassroots farmer welfare movement in Buldhana, Maharashtra fighting for drought relief, fair crop pricing, and agricultural rights.",
   keywords: [
-    "Balivansh Chalval",
-    "बळीवंश चळवळ",
+    "Balivansh Lokchalval",
+    "बळिवंश लोकचळवळ",
     "farmer welfare",
     "Maharashtra",
     "Buldhana",
@@ -18,9 +18,9 @@ export const metadata: Metadata = {
     "शेतकरी",
   ],
   openGraph: {
-    title: "बळीवंश चळवळ | Balivansh Chalval",
+    title: "बळिवंश लोकचळवळ | Balivansh Lokchalval",
     description:
-      "शेतकऱ्यांसाठी लढणारी चळवळ - A grassroots farmer welfare movement",
+      "शेतकऱ्यांचा शास्वत विकास - A grassroots farmer welfare movement",
     type: "website",
   },
 };
@@ -47,7 +47,7 @@ export default function RootLayout({
       <body className="font-body bg-earth-50 text-earth-800 antialiased">
         <Header />
         <main className="min-h-screen pt-16 sm:pt-20">{children}</main>
-        <Footer />
+        {/* <Footer /> */}
       </body>
     </html>
   );
