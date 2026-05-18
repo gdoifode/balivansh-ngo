@@ -22,7 +22,7 @@ export default function Home() {
         <div className="absolute inset-0">
           <Image
             src="/images/andolan.jpg"
-            alt="Balivansh Chalval Movement"
+            alt="Balivansh Lokchalval Movement"
             fill
             className="object-cover"
             priority
@@ -35,17 +35,17 @@ export default function Home() {
           <div className="opacity-0 animate-fade-in-up">
             <div className="inline-block mb-6 px-4 py-2 bg-field-600/30 backdrop-blur-sm border border-field-500/30 rounded-full">
               <span className="text-field-300 text-sm tracking-wider">
-                जय बळीवंश | JAY BALIVANSH
+                जय बळिवंश | JAY BALIVANSH
               </span>
             </div>
           </div>
 
           <h1 className="opacity-0 animate-fade-in-up animation-delay-200 text-5xl sm:text-7xl md:text-8xl font-black text-earth-50 font-marathi leading-tight">
-            बळीवंश चळवळ
+            बळिवंश लोकचळवळ
           </h1>
 
           <p className="opacity-0 animate-fade-in-up animation-delay-400 mt-4 text-xl sm:text-2xl md:text-3xl text-saffron-300 font-marathi">
-            शेतकऱ्यांसाठी लढणारी चळवळ
+            शेतकऱ्यांचा शास्वत विकास
           </p>
 
           <p className="opacity-0 animate-fade-in-up animation-delay-600 mt-6 text-earth-300 text-base sm:text-lg max-w-2xl mx-auto leading-relaxed">
