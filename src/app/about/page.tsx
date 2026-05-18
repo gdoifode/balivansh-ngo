@@ -22,10 +22,10 @@ export default function AboutPage() {
         <div className="max-w-4xl mx-auto">
           <div className="prose prose-lg max-w-none">
             <h2 className="text-2xl font-bold font-marathi text-earth-800 mb-4">
-              बळीवंश चळवळ म्हणजे काय?
+              बळिवंश लोकचळवळ म्हणजे काय?
             </h2>
             <p className="text-earth-600 leading-relaxed mb-6 font-marathi">
-              बळीवंश चळवळ ही महाराष्ट्रातील बुलढाणा जिल्ह्यातील सिंदखेडराजा व
+              बळिवंश लोकचळवळ ही महाराष्ट्रातील बुलढाणा जिल्ह्यातील सिंदखेडराजा व
               देऊळगाव राजा तालुक्यांमधील शेतकऱ्यांसाठी लढणारी एक जनचळवळ आहे.
               विदर्भ-मराठवाड्यातील शेतकऱ्यांवर दुष्काळ, अपुरा पाऊस, वन्य
               प्राण्यांचे पिकांवरील हल्ले, आणि अपुऱ्या शासकीय मदतीमुळे
@@ -33,10 +33,10 @@ export default function AboutPage() {
             </p>
 
             <h3 className="text-xl font-bold text-earth-700 mb-3">
-              What is Balivansh Chalval?
+              What is Balivansh Lokchalval?
             </h3>
             <p className="text-earth-600 leading-relaxed mb-6">
-              Balivansh Chalval is a grassroots people&apos;s movement fighting
+              Balivansh Lokchalval is a grassroots people&apos;s movement fighting
               for the rights of farmers in the Sindkhed Raja and Deulgaon Raja
               talukas of Buldhana district, Maharashtra. The movement stands
               against the compounding crises faced by farmers in the
@@ -66,14 +66,14 @@ export default function AboutPage() {
               आमचे ध्येय (Mission)
             </h3>
             <p className="text-earth-600 font-marathi leading-relaxed">
-              शेतकऱ्यांच्या हक्कांसाठी लढणे, त्यांना शासनाकडून योग्य मदत
-              मिळवून देणे, दुष्काळ निवारणासाठी प्रयत्न करणे, आणि शेतकऱ्यांच्या
-              पिकांना योग्य भाव मिळवून देणे.
+              शेतकरी कुटुंबांचे जीवनमान उंचावणे, माती परीक्षण, जलसंधारण,
+              शेतकरी प्रशिक्षण, आणि स्किल डेव्हलपमेंट याद्वारे शेतकऱ्यांचा
+              शाश्वत विकास साधणे.
             </p>
             <p className="mt-3 text-earth-500 text-sm">
-              To fight for farmer rights, secure government assistance, advocate
-              for drought relief, and ensure fair crop prices for farming
-              communities.
+              To uplift farmer families through soil testing, water conservation,
+              farmer training, and skill development for sustainable agricultural
+              growth.
             </p>
           </div>
 
