@@ -1,0 +1,37 @@
+[
+  {
+    "id": "g1",
+    "src": "/images/andolan.jpg",
+    "caption": "एक पणती आंदोलन - दिवाळी 2023",
+    "captionEn": "Ek Panati Movement - Diwali 2023",
+    "category": "andolan"
+  },
+  {
+    "id": "g2",
+    "src": "/images/473169731_122213459456035253_607851109868085797_n.jpg",
+    "caption": "एसडीएम यांना निवेदन सादर",
+    "captionEn": "Petition submitted to SDM Office",
+    "category": "advocacy"
+  },
+  {
+    "id": "g3",
+    "src": "/images/469728498_122207801882035253_7995857844670442765_n.jpg",
+    "caption": "विरोधी पक्ष नेत्यांना विधानसभेत निवेदन",
+    "captionEn": "Petition to Opposition Leader",
+    "category": "advocacy"
+  },
+  {
+    "id": "g4",
+    "src": "/images/new.jpg",
+    "caption": "I Support Farmers - बळीवंश",
+    "captionEn": "I Support Farmers - Balivansh",
+    "category": "campaign"
+  },
+  {
+    "id": "g5",
+    "src": "/images/469880429_122207808488035253_3237636201073398853_n.jpg",
+    "caption": "देशोन्नती वृत्तपत्र कव्हरेज",
+    "captionEn": "Deshonnati Newspaper Coverage",
+    "category": "media"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "id": "d1",
+    "title": "शेतकऱ्यांना थेट मदत",
+    "titleEn": "Direct Aid to Farmers",
+    "description": "दुष्काळी तालुक्यातील शेतकऱ्यांच्या खात्यात थेट मदत द्यावी.",
+    "descriptionEn": "Direct financial assistance should be credited to the accounts of farmers in drought-affected talukas.",
+    "icon": "HandCoins"
+  },
+  {
+    "id": "d2",
+    "title": "कर्ज माफी",
+    "titleEn": "Farm Loan Waiver",
+    "description": "दुष्काळी तालुक्यातील शेतकऱ्यांना कर्ज माफी द्यावी. तसेच केवळ सहकारीच नव्हे तर राष्ट्रीय कृत बँकांचे कर्जाचे पुनर्गठन करावे.",
+    "descriptionEn": "Loan waiver for farmers in drought talukas, including restructuring of loans from nationalized banks, not just cooperative banks.",
+    "icon": "Landmark"
+  },
+  {
+    "id": "d3",
+    "title": "कृषी बिल माफी",
+    "titleEn": "Agriculture Bill Waiver",
+    "description": "कृषी बिल सरसगट माफ करावे.",
+    "descriptionEn": "Blanket waiver of agricultural electricity bills for drought-affected farmers.",
+    "icon": "Zap"
+  },
+  {
+    "id": "d4",
+    "title": "शैक्षणिक शुल्क माफी",
+    "titleEn": "Education Fee Waiver",
+    "description": "शाळा/महाविद्यालये यांची भरलेली फी परत करावी व ज्यांची भरणे बाकी आहे त्यांना माफ करावी.",
+    "descriptionEn": "Refund of paid school and college fees, and waiver of pending fees for farmers' children.",
+    "icon": "GraduationCap"
+  },
+  {
+    "id": "d5",
+    "title": "रोहयो विहिरी व शेतस्त्यांना मंजुरी",
+    "titleEn": "ROHEYO Well & Farm Pond Approvals",
+    "description": "रोहयो अंतर्गत विहिरींच्या व शेतस्त्यांच्या कामाला मंजुरी द्यावी.",
+    "descriptionEn": "Approval for construction of wells and farm ponds under the ROHEYO (MGNREGA) scheme.",
+    "icon": "Droplets"
+  },
+  {
+    "id": "d6",
+    "title": "पीक नुकसान भरपाई",
+    "titleEn": "Crop Loss Compensation",
+    "description": "सोयाबीन कापूस उत्पादन यावर्षी घटले आहे. सोयाबीन सरासरी एकरी 5 क्विंटल व कापूस 5 क्विंटल यानुसार शासनाने नुकसान भरपाई म्हणून शेतकऱ्यांना अनुदान द्यावे.",
+    "descriptionEn": "Compensation for reduced soybean and cotton yields at the benchmark of 5 quintals per acre, with government subsidy for the shortfall.",
+    "icon": "Wheat"
+  },
+  {
+    "id": "d7",
+    "title": "तालुके दुष्काळग्रस्त घोषित करावे",
+    "titleEn": "Declare Talukas Drought-Affected",
+    "description": "सिंदखेडराजा व देऊळगाव राजा या दोन्ही तालुक्यांना दुष्काळग्रस्त यादीत समावेश करावा.",
+    "descriptionEn": "Both Sindkhed Raja and Deulgaon Raja talukas must be officially declared drought-affected.",
+    "icon": "CloudSun"
+  },
+  {
+    "id": "d8",
+    "title": "वन्य प्राण्यांचा बंदोबस्त",
+    "titleEn": "Wild Animal Menace Control",
+    "description": "रोही (नीलगाय) व इतर वन्य प्राण्यांच्या प्रचंड हैदोसाला त्रस्त झालेल्या शेतकऱ्यांसाठी बंदोबस्ताची कार्यवाही करावी.",
+    "descriptionEn": "Take action to control the menace of Nilgai (Rohi) and other wild animals destroying farmers' crops.",
+    "icon": "ShieldAlert"
+  }
+]

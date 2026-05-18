@@ -1,0 +1,42 @@
+[
+  {
+    "id": "ek-panati-andolan",
+    "title": "एक पणती आंदोलन",
+    "titleEn": "Ek Panati (One Lamp) Movement",
+    "date": "2023-11-12",
+    "description": "दिवाळीच्या दिवशी 90+ गावांमध्ये शेतकऱ्यांसाठी एक पणती लावण्याचे आंदोलन. शासनाच्या कोरड्या दुष्काळ अंतर्गत दिलेल्या सवलती अपुऱ्या असल्याचा निषेध.",
+    "descriptionEn": "On Diwali evening, 90+ villages lit one lamp each for farmers to protest the government's inadequate drought relief measures. A massive show of solidarity across the Vidarbha-Marathwada region.",
+    "image": "/images/andolan.jpg",
+    "category": "protest"
+  },
+  {
+    "id": "sdm-nivedan-drought",
+    "title": "एसडीएम यांना दुष्काळग्रस्त निवेदन",
+    "titleEn": "Drought Declaration Petition to SDM",
+    "date": "2023-09-15",
+    "description": "सिंदखेडराजा व देऊळगाव राजा या दोन्ही तालुक्यांना दुष्काळग्रस्त यादीत समावेश करण्यासाठी एसडीएम यांना निवेदन सादर.",
+    "descriptionEn": "Submitted a formal petition to the Sub-Divisional Magistrate demanding that both Sindkhed Raja and Deulgaon Raja talukas be declared drought-affected and included in the official drought list.",
+    "image": "/images/473169731_122213459456035253_607851109868085797_n.jpg",
+    "category": "advocacy"
+  },
+  {
+    "id": "vidhansabha-nivedan",
+    "title": "विरोधी पक्ष नेत्यांना विधानसभेत निवेदन",
+    "titleEn": "Petition to Opposition Leader for Assembly Session",
+    "date": "2023-09-06",
+    "description": "विजय वडेट्टीवार साहेबांना सिंदखेड राजा तालुका दुष्काळग्रस्त घोषित करावा व वन्य प्राण्यांच्या बंदोबस्तासाठी विधानसभेत आवाज उठवण्यासंबंधी निवेदन.",
+    "descriptionEn": "Balivansh workers submitted a petition to opposition leader Vijay Wadettiwar requesting him to raise the issues of drought declaration for Sindkhed Raja taluka and wild animal crop damage in the Vidhan Sabha.",
+    "image": "/images/469728498_122207801882035253_7995857844670442765_n.jpg",
+    "category": "advocacy"
+  },
+  {
+    "id": "deshonnati-coverage",
+    "title": "देशोन्नती वृत्तपत्र कव्हरेज",
+    "titleEn": "Deshonnati Newspaper Coverage",
+    "date": "2023-08-29",
+    "description": "बळीवंश चळवळीच्या माध्यमातून एकत्र येत मातृतीर्थ सिंदखेड राजातील शेतकऱ्यांनी केला एल्गार. 54 गावांमधून आत्मक्लेश आंदोलन.",
+    "descriptionEn": "Major coverage in Deshonnati newspaper about the farmer movement organized through Balivansh Chalval across 54 villages, including a self-suffering protest on Independence Day.",
+    "image": "/images/469880429_122207808488035253_3237636201073398853_n.jpg",
+    "category": "media"
+  }
+]
