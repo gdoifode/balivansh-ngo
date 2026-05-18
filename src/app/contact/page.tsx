@@ -50,7 +50,7 @@ export default function ContactPage() {
 
             <div className="space-y-5">
               <a
-                href="tel:+919999999999"
+                href="tel:+919665558999"
                 className="flex items-start gap-4 p-4 bg-white rounded-xl border border-earth-200 hover:border-field-300 hover:shadow-sm transition-all group"
               >
                 <div className="w-11 h-11 rounded-lg bg-field-50 group-hover:bg-field-100 flex items-center justify-center flex-shrink-0 transition-colors">
@@ -61,13 +61,16 @@ export default function ContactPage() {
                     Phone / फोन
                   </p>
                   <p className="text-earth-700 font-semibold">
-                    +91 XXXXX XXXXX
+                    +91 96655 58999
+                  </p>
+                  <p className="text-earth-500 text-sm">
+                    +91 70301 25130
                   </p>
                 </div>
               </a>
 
               <a
-                href="https://wa.me/919999999999"
+                href="https://wa.me/919665558999"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-start gap-4 p-4 bg-white rounded-xl border border-earth-200 hover:border-field-300 hover:shadow-sm transition-all group"
@@ -80,13 +83,13 @@ export default function ContactPage() {
                     WhatsApp / व्हॉट्सॲप
                   </p>
                   <p className="text-earth-700 font-semibold">
-                    +91 XXXXX XXXXX
+                    +91 96655 58999
                   </p>
                 </div>
               </a>
 
               <a
-                href="mailto:contact@balivansh.org"
+                href="mailto:ganeshmdoifode@gmail.com"
                 className="flex items-start gap-4 p-4 bg-white rounded-xl border border-earth-200 hover:border-field-300 hover:shadow-sm transition-all group"
               >
                 <div className="w-11 h-11 rounded-lg bg-saffron-50 group-hover:bg-saffron-100 flex items-center justify-center flex-shrink-0 transition-colors">
@@ -97,7 +100,7 @@ export default function ContactPage() {
                     Email / ईमेल
                   </p>
                   <p className="text-earth-700 font-semibold">
-                    contact@balivansh.org
+                    ganeshmdoifode@gmail.com
                   </p>
                 </div>
               </a>

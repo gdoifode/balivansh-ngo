@@ -23,9 +23,11 @@ export default function Header() {
         <div className="flex items-center justify-between h-16 sm:h-20">
           {/* Logo */}
           <Link href="/" className="flex items-center gap-3 group">
-            <div className="w-10 h-10 sm:w-12 sm:h-12 rounded-full bg-gradient-to-br from-field-500 to-field-700 flex items-center justify-center text-white font-bold text-lg sm:text-xl font-marathi shadow-lg group-hover:scale-105 transition-transform">
-              ब
-            </div>
+            <img
+              src="/images/logo.jpg"
+              alt="बळीवंश चळवळ Logo"
+              className="w-10 h-10 sm:w-12 sm:h-12 rounded-full object-cover shadow-lg group-hover:scale-105 transition-transform"
+            />
             <div className="hidden sm:block">
               <h1 className="text-lg font-bold text-earth-50 font-marathi leading-tight">
                 बळीवंश चळवळ

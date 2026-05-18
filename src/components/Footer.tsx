@@ -49,18 +49,25 @@ export default function Footer() {
             <h3 className="text-lg font-bold text-earth-50 mb-3">संपर्क</h3>
             <div className="flex flex-col gap-3">
               <a
-                href="tel:+919999999999"
+                href="tel:+919665558999"
                 className="flex items-center gap-2 text-earth-400 hover:text-saffron-400 text-sm transition-colors"
               >
                 <Phone size={16} />
-                <span>+91 XXXXX XXXXX</span>
+                <span>+91 96655 58999</span>
               </a>
               <a
-                href="mailto:contact@balivansh.org"
+                href="tel:+917030125130"
+                className="flex items-center gap-2 text-earth-400 hover:text-saffron-400 text-sm transition-colors"
+              >
+                <Phone size={16} />
+                <span>+91 70301 25130</span>
+              </a>
+              <a
+                href="mailto:ganeshmdoifode@gmail.com"
                 className="flex items-center gap-2 text-earth-400 hover:text-saffron-400 text-sm transition-colors"
               >
                 <Mail size={16} />
-                <span>contact@balivansh.org</span>
+                <span>ganeshmdoifode@gmail.com</span>
               </a>
               <a
                 href="https://www.facebook.com/profile.php?id=61551057593710"
