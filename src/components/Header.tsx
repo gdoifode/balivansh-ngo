@@ -25,12 +25,12 @@ export default function Header() {
           <Link href="/" className="flex items-center gap-3 group">
             <img
               src="/images/logo.jpg"
-              alt="बळिवंश लोकचळवळ Logo"
+              alt="बळीवंश लोकचळवळ Logo"
               className="w-10 h-10 sm:w-12 sm:h-12 rounded-full object-cover shadow-lg group-hover:scale-105 transition-transform"
             />
             <div className="hidden sm:block">
               <h1 className="text-lg font-bold text-earth-50 font-marathi leading-tight">
-                बळिवंश लोकचळवळ
+                बळीवंश लोकचळवळ
               </h1>
               <p className="text-xs text-field-400 tracking-wider">
                 BALIVANSH LOKCHALVAL
