@@ -8,7 +8,7 @@ export default function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-3 gap-10">
           <div>
             <h3 className="text-xl font-bold text-earth-50 font-marathi mb-3">
-              बळिवंश लोकचळवळ
+              बळीवंश लोकचळवळ
             </h3>
             <p className="text-earth-400 text-sm leading-relaxed">
               शेतकऱ्यांचा शास्वत विकास. सिंदखेडराजा व देऊळगाव राजा,
@@ -57,7 +57,7 @@ export default function Footer() {
           </div>
         </div>
         <div className="mt-10 pt-6 border-t border-earth-800 flex flex-col sm:flex-row items-center justify-between gap-4">
-          <p className="text-earth-500 text-xs">&copy; {new Date().getFullYear()} बळिवंश लोकचळवळ (Balivansh Lokchalval). All rights reserved.</p>
+          <p className="text-earth-500 text-xs">&copy; {new Date().getFullYear()} बळीवंश लोकचळवळ (Balivansh Lokchalval). All rights reserved.</p>
           <p className="text-earth-600 text-xs flex items-center gap-1">Made with <Heart size={12} className="text-saffron-500" /> for farmers</p>
         </div>
       </div>
