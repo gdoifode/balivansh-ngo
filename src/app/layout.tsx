@@ -33,6 +33,7 @@ export default function RootLayout({
   return (
     <html lang="mr">
       <head>
+        <link rel="icon" href="/images/logo.jpg" />
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link
           rel="preconnect"
