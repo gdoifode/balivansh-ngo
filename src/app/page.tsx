@@ -17,7 +17,7 @@ export default function Home() {
   return (
     <>
       {/* Hero Section */}
-      <section className="relative min-h-[90vh] flex items-center justify-center overflow-hidden grain-overlay">
+      <section className="relative min-h-[90vh] flex items-center justify-center overflow-hidden">
         {/* Background */}
         <div className="absolute inset-0">
           <Image
@@ -27,13 +27,21 @@ export default function Home() {
             className="object-cover"
             priority
           />
-          <div className="absolute inset-0 bg-gradient-to-b from-earth-900/80 via-earth-900/70 to-earth-900/90" />
+          <div className="absolute inset-0 bg-gradient-to-b from-earth-900/90 via-earth-900/85 to-earth-900/95" />
         </div>
 
         {/* Content */}
         <div className="relative z-10 max-w-5xl mx-auto px-4 text-center">
           <div className="opacity-0 animate-fade-in-up">
-            <div className="inline-block mb-6 px-4 py-2 bg-field-600/30 backdrop-blur-sm border border-field-500/30 rounded-full">
+            <img
+              src="/images/logo.jpg"
+              alt="बळिवंश लोकचळवळ Logo"
+              className="w-24 h-24 sm:w-32 sm:h-32 rounded-full object-cover shadow-2xl mx-auto mb-6 border-4 border-field-500/30"
+            />
+          </div>
+
+          <div className="opacity-0 animate-fade-in-up animation-delay-200">
+            <div className="inline-block mb-4 px-4 py-2 bg-field-600/30 backdrop-blur-sm border border-field-500/30 rounded-full">
               <span className="text-field-300 text-sm tracking-wider">
                 जय बळिवंश | JAY BALIVANSH
               </span>
