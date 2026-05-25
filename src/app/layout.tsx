@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import Header from "@/components/Header";
-// import Footer from "@/components/Footer";
+import Footer from "@/components/Footer";
+import WhatsAppButton from "@/components/WhatsAppButton";
 import "./globals.css";
 
 export const metadata: Metadata = {
@@ -33,6 +34,7 @@ export default function RootLayout({
   return (
     <html lang="mr">
       <head>
+        <link rel="icon" href="/images/logo.jpg" />
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link
           rel="preconnect"
@@ -47,7 +49,8 @@ export default function RootLayout({
       <body className="font-body bg-earth-50 text-earth-800 antialiased">
         <Header />
         <main className="min-h-screen pt-16 sm:pt-20">{children}</main>
-        {/* <Footer /> */}
+        <Footer />
+        <WhatsAppButton />
       </body>
     </html>
   );
